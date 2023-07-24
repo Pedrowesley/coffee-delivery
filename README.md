@@ -1,4 +1,4 @@
-# Coffee Delivery <img src='https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/favicon.svg' width='50px' />
+# Coffee Delivery <img src='https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/favicon.svg' width='50px' />
 
 Projeto Web desenvolvido durante o Bootcamp Ignite by Rocketseat • Trilha ReactJS - Desafio 10 - TEMA: "Coffee Delivery" ☕️
 
@@ -31,7 +31,7 @@ O projeto trata-se de uma aplicação para gerenciar um carrinho de compras de u
 
 ```
 // Clone o projeto e acesse a pasta:
-$ git clone https://github.com/jfernandesdev/coffee-delivery.git && cd coffee-delivery
+$ git clone https://github.com/Pedrowesley/coffee-delivery.git && cd coffee-delivery
 
 // Instale as dependências:
 $ yarn
@@ -51,22 +51,14 @@ $ yarn dev
 
 | Home | Home - Nossos cafés |
 | --- | --- |
-| <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-desktop-1.png" /> | <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-desktop-2.png" /> | 
+| <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-desktop-1.png" /> | <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-desktop-2.png" /> | 
 
 | Checkout | Sucesso |
 | --- | --- |
-| <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-desktop-1.png" /> | <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-desktop-2.png" /> |
+| <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-desktop-1.png" /> | <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-desktop-2.png" /> |
 
 ### Mobile (screenshot):
 
 | Home | Nossos cafés | Checkout | Sucesso |
 | --- | --- | --- | --- |
-| <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-mobile-1.png" width='275px' /> | <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-mobile-2.png" width='275px' /> | <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-mobile-2.png" width='275px' /> | <img src="https://github.com/jfernandesdev/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-mobile-3.png" width='275px' /> |
-
-### Dê uma olhada como o projeto ficou! 👀
-
-https://coffee-delivery-jfernandesdev.vercel.app/
-
-<br>
-
-<img src="https://i.ibb.co/Yckq764/footer-signature.png" alt="footer-signature" border="0"  width='400px' />
+| <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-mobile-1.png" width='275px' /> | <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/home-mobile-2.png" width='275px' /> | <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-mobile-2.png" width='275px' /> | <img src="https://github.com/Pedrowesley/coffee-delivery/blob/fb27f53fd12ef4bfd8f210fc8ab81138c9c0a2aa/public/layout-screenshot/checkout-mobile-3.png" width='275px' /> |
